@@ -3,7 +3,7 @@
 ]]
 
 addon.name      = 'fishcap';
-addon.author    = 'YourName';
+addon.author    = 'Darklighter';
 addon.version   = '1.6';
 addon.desc      = 'Tracks daily fishing cap (200) including items and line breaks.';
 addon.commands  = {'fishcap', 'fcap'};
